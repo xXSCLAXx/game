@@ -1,0 +1,48 @@
+# This .gitignore file should be placed at the root of your Unity project.
+#
+# Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
+#
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# Memory dumps
+*.lldmp
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# Visual Studio / Rider generated
+[Zz]u/
+.vs/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svclog
+*.com.unity.ide.rider
+
+# Unity3D generated meta files
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Unity3D Generated File On Crash Reports
+sysinfo.txt
+
+# Artifacts
+Assets/AssetStoreTools*
+
+# PlasticSCM
+ignore.conf
